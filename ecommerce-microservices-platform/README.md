@@ -97,4 +97,4 @@ Order creation demonstrates synchronous Feign calls to User/Product and publishe
 
 ## Learning coverage
 
-API Gateway, Eureka Service Discovery, Config Server, REST, OpenFeign, MySQL/JPA, Kafka, Redis caching, Resilience4j Circuit Breaker, JWT authentication, Actuator, Docker, Maven and basic testing are represented in this single project. Advanced production topics such as Prometheus/Grafana, OpenTelemetry, Jenkins and Kubernetes can be added as later deployment modules without changing the service boundaries.
+API Gateway, Eureka Service Discovery, Config Server, REST, OpenFeign, MySQL/JPA, Kafka, Redis caching, Resilience4j Circuit Breaker, JWT authentication, Actuator, Docker, Maven and basic testing are represented in this single project. 
